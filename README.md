@@ -1,6 +1,6 @@
 # Jatra_Poth_Android_App
 
-This is an android application, Here people can easily select their own location and select their destination location, Then they can see which buses are available on this route, They can check the available bus list and can easily select e bus, People can search bus details, bus photo and bus route using bus name, People also can see their realtime location and city map in google map.
+This is an android application, Here people can easily select their own location and select their destination location, Then they can see which buses are available on this route, They can check the available bus list and can easily select the bus, People can search bus details, bus photo and bus route using bus name, People also can see their realtime location and city map in google map.
 
 Application Screenshots
 
