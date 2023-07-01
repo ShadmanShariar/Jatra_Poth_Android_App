@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Jatra Poth</string>
+    <string name="select">Select Your Current Location</string>
+    <string name="select2">Select Your Destination Location</string>
+    <string name="select3">Select A Bus Name</string>
+</resources>
