@@ -18,17 +18,3 @@ This is an android application, Here people can easily select their own location
 ![250287163-b759b944-913b-4636-b6cf-4f587e8d6f41](https://github.com/ShadmanShariar/Jatra_Poth_Android_App/assets/75669228/bbe9dfae-23cc-4f91-a298-415ec869a866)
 ![250287168-09f7d98b-a2ca-4c85-855a-36fc81ba7d4d](https://github.com/ShadmanShariar/Jatra_Poth_Android_App/assets/75669228/fe485ba9-7714-4f7a-81d3-83411c574edc)
 ![250287319-af726927-dade-4300-8eaf-8bfc8cdc2cfd](https://github.com/ShadmanShariar/Jatra_Poth_Android_App/assets/75669228/41bf0763-9204-4270-bbd1-46810bbea732)
-
-
-# Exception_Handling
-
-![14](https://github.com/ShadmanShariar/Jatra_Poth_Android_App/assets/75669228/0c9de011-456c-4fed-8fbb-f6ba9dc2e128)
-![15](https://github.com/ShadmanShariar/Jatra_Poth_Android_App/assets/75669228/7abf8b05-127b-4f8c-a614-ddc42f20f925)
-![16](https://github.com/ShadmanShariar/Jatra_Poth_Android_App/assets/75669228/41bbab91-7b88-451a-bfb8-1aff0f5aaabf)
-![17](https://github.com/ShadmanShariar/Jatra_Poth_Android_App/assets/75669228/d067e487-db16-43cb-a07c-e4b7c7c49531)
-
-# Developer_Details_and_Social_Media
-
-![18](https://github.com/ShadmanShariar/Jatra_Poth_Android_App/assets/75669228/fee7d7b8-52ce-4303-9ac7-02edfd5ef8be)
-![19](https://github.com/ShadmanShariar/Jatra_Poth_Android_App/assets/75669228/18656cd4-48ee-46c1-9782-eedba46e9a87)
-![20](https://github.com/ShadmanShariar/Jatra_Poth_Android_App/assets/75669228/3ab4c86e-0b5e-43b9-a962-75f9066935cc)
